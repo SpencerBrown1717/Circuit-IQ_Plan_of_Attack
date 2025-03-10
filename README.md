@@ -113,8 +113,9 @@ board_state.silkscreen = silkscreen_agent.update_labels(board_state)
 
 # 7. Show updated design
 show_board_in_viewer(board_state)
-# 8. Repeat until user is happy - or iterate 1000 times for fixed amount of quieries, let user select model, cost and what they wnat to pay, claud 3.7 for 50 usd get 50 runs hypotheticaly,, deepseek for 50 usd and get 250 runs and user will recive best 5 boards. 
-perfre monthly subsription to flat fee, so user bears responability to iterate not soly relying on agents who can make simple errors at this time.
+#8. Repeat until user is happy - or iterate 1000 times for fixed amount of quieries, let user select model, cost and what they want to pay, claud 3.7 for 50 usd get 50 runs hypotheticaly,, deepseek for 50 usd and get 250 runs and user will recive best 5 boards. 
+
+Prefer monthly subsription to flat fee, so user bears responability to iterate not soly relying on agents who can make simple errors at this time.
 
 
 
