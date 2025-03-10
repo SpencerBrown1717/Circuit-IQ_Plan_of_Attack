@@ -21,7 +21,7 @@ Text to PCB
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-Next phases after MVP works (curently can great baoard when hard coded 3.8.2025 )
+Next phases after MVP works (curently can generate baoard when hard coded 3.8.2025 )
 
 Basic UI and user input exposed issues with input to "director" agent. 
 
@@ -118,7 +118,7 @@ perfre monthly subsription to flat fee, so user bears responability to iterate n
 
 
 
-The premis is that.... if AGI is actualy coming ... and AI will be used to fight and win wars, i can't imagien them being bested by a zip file. 
+The premis is that.... if AGI is actualy coming ... and AI will be used to fight and win wars, i can't imagine them being bested by a zip file. 
 
 
 
