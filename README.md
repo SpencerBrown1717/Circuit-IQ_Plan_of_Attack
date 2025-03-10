@@ -64,6 +64,8 @@ Text to PCB
 - Retry mechanisms for transient failures
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Next phases after MVP works (curently can great baoard when hard coded 3.8.2025 )
 
@@ -76,6 +78,11 @@ Will build RAG vector databse to help with DataSheet input and extraction - to m
 will need to have a 3D viewer and let user edit with NLP example move USB-C 2mm to left or remove USB-C and recreate baord. 
 
 Below is predicted workflow for next steps after consistant (NLP via -> UI -> to Director -> to worker agents -> gerber zip) is reliably producing Gerbers that render in JLCPCB viewer. 
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Pseudocode for iterative approach:
 
