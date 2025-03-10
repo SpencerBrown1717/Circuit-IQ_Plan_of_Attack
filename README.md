@@ -21,7 +21,7 @@ Text to PCB
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-Next phases after MVP works (curently can generate baoard when hard coded 3.8.2025 )
+Next phases after MVP works (curently can generate board when hard coded 3.8.2025 )
 
 Basic UI and user input exposed issues with input to "director" agent. 
 
